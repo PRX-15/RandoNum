@@ -4,8 +4,8 @@
   "description": "Random Number Generator",
   "start_url": "/RandoNum",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF",
+  "  "background_color": "#09090b",
+  "theme_color": "#09090b",
   "icons": [
     {
       "src": "/RandoNum-icon-192.png",
