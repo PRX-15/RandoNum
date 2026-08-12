@@ -4,6 +4,10 @@ A simple, clean random number generator built with **HTML, CSS, and JavaScript**
 
 Enter a minimum and maximum number, click **Generate**, and the website will generate a random whole number within that range.
 
+## 🌐 Live Demo
+
+👉 **[Open Calculator](https://prx-15.github.io/RandoNum/)**
+
 ## ✨ Features
 
 - 🎲 Generates random numbers
